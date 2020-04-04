@@ -1,0 +1,10 @@
+{
+  "name": "Poweroff Button on Topbar",
+  "description": "Add poweroff button on topbar",
+  "uuid": "poweroff-button-on-topbar@darknico.com",
+  "shell-version": [
+    "3.36"
+  ],
+  "version": 1,
+  "url": "https://github.com/Darknico/GNOME-Shell-Extensions"
+}
