@@ -5,7 +5,7 @@
 
 License 
 ==============
-[GPL_V3](../GPL_V3)
+[GPL-3.0](../LICENSE.txt)
 
 
 Requirements
