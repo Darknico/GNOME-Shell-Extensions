@@ -15,7 +15,7 @@ Requirements
 
 Changelog
 ==============
-v1 (15-10-2021)
-- First Commit with base functionality
+v2 (15-10-2021)
+- Fix issue with 3.38
 v1 (04-04-2020)
 - First Commit with base functionality
