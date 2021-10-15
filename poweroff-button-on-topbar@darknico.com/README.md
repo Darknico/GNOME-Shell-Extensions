@@ -11,9 +11,11 @@ License
 Requirements
 ==============
 
-- GNOME Shell 3.36
+- GNOME Shell 3.36+
 
 Changelog
 ==============
+v1 (15-10-2021)
+- First Commit with base functionality
 v1 (04-04-2020)
 - First Commit with base functionality
