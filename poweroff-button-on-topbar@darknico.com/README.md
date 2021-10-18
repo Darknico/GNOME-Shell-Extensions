@@ -15,6 +15,8 @@ Requirements
 
 Changelog
 ==============
+- v4 (18-10-2021)
+  - Added gnome 40 support (tested on Ubuntu 21.10)
 - v3 (18-10-2021)
   - Review constructors
 - v2 (15-10-2021)
