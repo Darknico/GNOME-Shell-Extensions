@@ -15,6 +15,8 @@ Requirements
 
 Changelog
 ==============
+- v5 (18-05-2022)
+  - Added gnome 41/42 support (tested on Ubuntu 22.04)
 - v4 (18-10-2021)
   - Added gnome 40 support (tested on Ubuntu 21.10)
 - v3 (18-10-2021)
