@@ -19,7 +19,7 @@ function init() {
 function enable() {
 
     icon = new St.Icon({
-        icon_name: 'system-shutdown',
+        icon_name: 'system-shutdown-symbolic',
         style_class: 'system-status-icon'
     });
 
